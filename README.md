@@ -1,8 +1,8 @@
-<img width="1917" height="1027" alt="Capture d’écran 2026-06-29 140550" src="https://github.com/user-attachments/assets/bf782135-eea6-422f-9eb2-a25000128518" />
-<img width="1912" height="1030" alt="Capture d’écran 2026-06-29 140530" src="https://github.com/user-attachments/assets/830af462-1a12-4e16-be28-9b1dabb30ac9" />
-<img width="1917" height="1021" alt="Capture d’écran 2026-06-29 140510" src="https://github.com/user-attachments/assets/da98f7fa-e26d-44c1-a3a7-2e6c891541d0" />
-<img width="1917" height="1027" alt="Capture d’écran 2026-06-29 140440" src="https://github.com/user-attachments/assets/df716bd2-18f4-491f-a3a1-d497abfba48b" />
-<img width="1906" height="1027" alt="Capture d’écran 2026-06-29 140419" src="https://github.com/user-attachments/assets/cabb4eb0-88e7-4cb8-9287-2ded6f8a815d" />
+<img width="1906" height="1027" alt="Capture d’écran 2026-06-29 140419" src="https://github.com/user-attachments/assets/38494e8e-d4d8-4918-89d4-74e5078c0784" />
+<img width="1917" height="1027" alt="Capture d’écran 2026-06-29 140440" src="https://github.com/user-attachments/assets/db4b2a9b-361b-4e0c-b637-c17c6c85f857" />
+<img width="1917" height="1021" alt="Capture d’écran 2026-06-29 140510" src="https://github.com/user-attachments/assets/f2186b07-25a2-4405-8b76-aae8032db2ef" />
+<img width="1912" height="1030" alt="Capture d’écran 2026-06-29 140530" src="https://github.com/user-attachments/assets/cd996c39-9962-4e55-838f-1bdd7e68e115" />
+<img width="1917" height="1027" alt="Capture d’écran 2026-06-29 140550" src="https://github.com/user-attachments/assets/8e8c794d-ced0-478d-9512-a71fb0572916" />
 
 # 🥔 AgriVision AI — Diagnostic & Système Multi-Agents
 
