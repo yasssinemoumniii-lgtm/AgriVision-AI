@@ -1,3 +1,7 @@
+
+
+<video src="URL_DE_TA_VIDÉO.mp4" autoplay loop muted controls width="100%"></video>
+
 # 🥔 AgriVision AI — Diagnostic & Système Multi-Agents
 
 Ce projet d'ingénierie applique le Deep Learning à l'agronomie pour détecter et analyser automatiquement les maladies de la pomme de terre.
