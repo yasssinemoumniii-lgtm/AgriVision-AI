@@ -1,6 +1,7 @@
 
 
-<video src="URL_DE_TA_VIDÉO.mp4" autoplay loop muted controls width="100%"></video>
+Uploading Enregistrement 2026-06-29 140124.mp4…
+
 
 # 🥔 AgriVision AI — Diagnostic & Système Multi-Agents
 
